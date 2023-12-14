@@ -64,9 +64,6 @@
   --clr-primary-900: hsl(218, 33%, 9%);
 }
 
-html {
-  color-scheme: dark;
-}
 
 body {
   display: grid;
